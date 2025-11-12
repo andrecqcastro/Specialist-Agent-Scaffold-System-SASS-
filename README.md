@@ -1,4 +1,4 @@
-![Logo do Projeto](logo/SASS.jpg)
+![Logo do Projeto](logo/SASS_icon.jpg)
 
 
 # Specialist Agent Scaffold-System (SASS) #
