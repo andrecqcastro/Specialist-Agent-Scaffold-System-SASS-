@@ -1,3 +1,6 @@
+![Logo do Projeto](logo/SASS.jpg)
+
+
 # Specialist Agent Scaffold-System (SASS) #
 
 This repository provides a scaffolding system for creating, evaluating, and evolving **Specialist Agents**. The methodology is inspired by Darwinian principles of selection and adaptation, where a "Developer" LLM guides the evolution.
@@ -9,11 +12,11 @@ The system uses a `meta_model` (like GPT-4o) to act as a "Developer" that iterat
 * Python 3.10+
 * An OpenAI API key set as an environment variable (`OPENAI_API_KEY`)
 
-## 🛠️ Setup
+## Setup
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/andrecqcastro/Specialist-Agent-Scaffold-System-SASS-.git](https://github.com/andrecqcastro/Specialist-Agent-Scaffold-System-SASS-.git)
+    git clone https://github.com/andrecqcastro/Specialist-Agent-Scaffold-System-SASS-.git
     ```
 
 2.  **Navigate to the directory:**
