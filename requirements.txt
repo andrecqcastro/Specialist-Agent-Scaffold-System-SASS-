@@ -1,0 +1,10 @@
+huggingface_hub
+datasets
+pyyaml
+openai
+numpy
+python-dotenv
+langgraph
+langchain-core
+langchain-openai
+tiktoken
