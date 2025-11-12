@@ -9,7 +9,7 @@ The system uses a `meta_model` (like GPT-4o) to act as a "Developer" that iterat
 
 ## Requirements
 
-* Python 3.10+
+* Python 3.10+ 
 * An OpenAI API key set as an environment variable (`OPENAI_API_KEY`)
 
 ## Setup
